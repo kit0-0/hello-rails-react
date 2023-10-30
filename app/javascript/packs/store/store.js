@@ -1,4 +1,3 @@
-// app/javascript/packs/store/store.js
 import { configureStore } from '@reduxjs/toolkit';
 import greetingReducer from './greetingSlice';
 

@@ -1,4 +1,3 @@
-// app/javascript/packs/store/greetingSlice.js
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
